@@ -3,9 +3,9 @@
 <a href = "https://linkfree.eddiehub.io/lalitdhane" ><img src = "https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png"/></a>
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Choaib541&show_icons=true&theme=radical&bg_color=161b22&border_color=58a6ff&icon_color=58a6ff&title_color=58a6ff&text_color=fff" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ChoaibMouhrach&show_icons=true&theme=radical&bg_color=161b22&border_color=58a6ff&icon_color=58a6ff&title_color=58a6ff&text_color=fff" />
 
-<img align="right" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choaib541&langs_count=4&bg_color=161b22&border_color=58a6ff&text_color=fff&layout=compact" />
+<img align="right" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoaibMouhrach&langs_count=4&bg_color=161b22&border_color=58a6ff&text_color=fff&layout=compact" />
 
 
 <br /><br />
